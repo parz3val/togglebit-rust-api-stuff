@@ -1,0 +1,20 @@
+[config]
+app_url = ""
+api_url = ""
+db_uri = ""
+cache_uri = ""
+dsbreach_api_key = ""
+ds_darkengine_api_key = ""
+mongodb_password = ""
+user = ""
+mdb_uri = ""
+
+[jwt]
+jwt_secret = "randomkeysuppose"
+
+[app]
+version = 0.1
+
+[smtp]
+username = ""
+password = ""
